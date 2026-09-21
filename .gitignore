@@ -3,3 +3,4 @@ backup.log
 *.tar.gz
 *.tar.gz.partial
 .backup.lock
+.tools/
